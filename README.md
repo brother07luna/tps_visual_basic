@@ -4,13 +4,13 @@
 **Profesor/a:** Calbo y Avíles  
 **Alumno:** Angel Luna  
 **Curso:** 7mo 3ra  
-**Fecha de entrega:** [dd/mm/aaaa]
+**Fecha de entrega:** [22/07/2025]
 
 ---
 
 ## 📝 Descripción
 
-Este proyecto consiste en un [explicá brevemente qué hace].
+Estos proyectos son archivos sencillos con una actividad especifica que pidieron los profes que lo entregarmos por este medio.
 
 Por ejemplo:  
 - Muestra los Numeros pares e impares
